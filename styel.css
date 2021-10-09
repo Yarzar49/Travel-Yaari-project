@@ -1,0 +1,19 @@
+/*Custom Css*/
+body{
+    background-color: hotpink;
+}
+
+/* @media screen and (max-width:600px) {
+    .card{
+        margin-top: 10px;
+
+    }
+    
+} */
+.card{
+    margin-top: 300px;
+}
+
+.pa{
+    color: red;
+}
